@@ -1,2 +1,2 @@
 # computer-vision-
-computer vison projects
+computer vision projects
