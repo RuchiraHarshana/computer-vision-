@@ -1,0 +1,3 @@
+@this model is created using image net and  OpenCV  libraries. you first need to feed the photographs by running main.py and after that you will be able to recognize faces.  
+
+  Developer: -Ruchira Amarakone-
